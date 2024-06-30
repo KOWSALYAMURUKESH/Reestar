@@ -1,0 +1,96 @@
+body{
+    margin: 40px;
+    padding: 40px;
+}
+.container{
+    margin: 10px;
+}
+.two{
+    width: 200px;
+    background-color: greenyellow;
+    display: inline-block;
+    border: solid red 2px;
+    
+    
+}
+.three{
+    width: 200px;
+    background-color: greenyellow;
+    display: inline-block;
+    border: solid red 2px;
+}
+.four{
+    width: 200px;
+    background-color: greenyellow;
+    display: inline-block;
+    border: solid red 2px;
+}
+.five{
+    width: 200px;
+    background-color: greenyellow;
+    display: inline-block;
+    border: solid red 2px;
+}
+.two-image{
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+.three-image{
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+.four-image{
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+.five-image{
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+}
+
+
+.one{
+    background-color: orange;
+    color: red;
+    padding: 30px;
+    text-align: center;
+}
+.container{
+    text-align: center;
+    
+}
+
+
+.six{
+    background-color: orange;
+    color: red;
+    text-align: center;
+
+}
+.seven{
+    text-align: center;
+    width: 60%;
+    background-color: red;
+    display: inline-block;
+
+}
+.two-button{
+    background-color: orangered;
+}
+.three-button{
+    background-color: orangered;
+}
+.four-button{
+    background-color: orangered;
+}
+.five-button{
+    background-color: orangered;
+}
